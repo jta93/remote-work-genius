@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jta93.github.io/remote-work-genius/sitemap.xml
